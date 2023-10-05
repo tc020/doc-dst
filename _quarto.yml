@@ -20,6 +20,7 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+    - new-site.qmd
 
 format:
   html:

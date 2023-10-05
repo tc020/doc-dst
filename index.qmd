@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-This is a Quarto book template. test
+This is a Quarto book template.
 
 ![](images/logo.png){width="30%"}
 
