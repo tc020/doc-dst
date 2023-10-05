@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tc020.github.io/doc-ds/index.html</loc>
-    <lastmod>2023-10-05T12:24:29.115Z</lastmod>
+    <lastmod>2023-10-05T12:31:39.747Z</lastmod>
   </url>
   <url>
     <loc>https://tc020.github.io/doc-ds/intro.html</loc>
-    <lastmod>2023-10-05T12:24:29.119Z</lastmod>
+    <lastmod>2023-10-05T12:31:39.751Z</lastmod>
   </url>
   <url>
     <loc>https://tc020.github.io/doc-ds/summary.html</loc>
-    <lastmod>2023-10-05T12:24:29.123Z</lastmod>
+    <lastmod>2023-10-05T12:31:39.755Z</lastmod>
   </url>
   <url>
     <loc>https://tc020.github.io/doc-ds/references.html</loc>
-    <lastmod>2023-10-05T12:24:29.127Z</lastmod>
+    <lastmod>2023-10-05T12:31:39.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tc020.github.io/doc-ds/new-site.html</loc>
+    <lastmod>2023-10-05T12:31:39.763Z</lastmod>
   </url>
 </urlset>
