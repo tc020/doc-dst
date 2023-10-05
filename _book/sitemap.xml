@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ORGNAME.github.io/REPONAME/index.html</loc>
+    <lastmod>2023-10-03T10:11:43.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ORGNAME.github.io/REPONAME/intro.html</loc>
+    <lastmod>2023-10-03T10:11:43.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ORGNAME.github.io/REPONAME/summary.html</loc>
+    <lastmod>2023-10-03T10:11:43.622Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ORGNAME.github.io/REPONAME/references.html</loc>
+    <lastmod>2023-10-03T10:11:43.624Z</lastmod>
+  </url>
+</urlset>
