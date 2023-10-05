@@ -1,1 +1,1 @@
-Sitemap: https://ORGNAME.github.io/REPONAME/sitemap.xml
+Sitemap: https://tc020.github.io/doc-ds/sitemap.xml
